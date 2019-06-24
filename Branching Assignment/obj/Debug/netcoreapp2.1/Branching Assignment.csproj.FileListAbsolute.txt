@@ -1,0 +1,11 @@
+C:\Users\ehcottle\Desktop\Branching Assignment\obj\Debug\netcoreapp2.1\Branching Assignment.csprojAssemblyReference.cache
+C:\Users\ehcottle\Desktop\Branching Assignment\obj\Debug\netcoreapp2.1\Branching Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ehcottle\Desktop\Branching Assignment\obj\Debug\netcoreapp2.1\Branching Assignment.AssemblyInfoInputs.cache
+C:\Users\ehcottle\Desktop\Branching Assignment\obj\Debug\netcoreapp2.1\Branching Assignment.AssemblyInfo.cs
+C:\Users\ehcottle\Desktop\Branching Assignment\bin\Debug\netcoreapp2.1\Branching Assignment.deps.json
+C:\Users\ehcottle\Desktop\Branching Assignment\bin\Debug\netcoreapp2.1\Branching Assignment.runtimeconfig.json
+C:\Users\ehcottle\Desktop\Branching Assignment\bin\Debug\netcoreapp2.1\Branching Assignment.runtimeconfig.dev.json
+C:\Users\ehcottle\Desktop\Branching Assignment\bin\Debug\netcoreapp2.1\Branching Assignment.dll
+C:\Users\ehcottle\Desktop\Branching Assignment\bin\Debug\netcoreapp2.1\Branching Assignment.pdb
+C:\Users\ehcottle\Desktop\Branching Assignment\obj\Debug\netcoreapp2.1\Branching Assignment.dll
+C:\Users\ehcottle\Desktop\Branching Assignment\obj\Debug\netcoreapp2.1\Branching Assignment.pdb
