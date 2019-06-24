@@ -6,6 +6,7 @@ namespace BooleanAssignment
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("What is your age?");
             int x;
             x = Convert.ToInt32(Console.ReadLine());

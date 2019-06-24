@@ -1,0 +1,11 @@
+C:\Users\ehcottle\Desktop\AccountingOnYou\bin\Debug\netcoreapp2.1\AccountingOnYou.deps.json
+C:\Users\ehcottle\Desktop\AccountingOnYou\bin\Debug\netcoreapp2.1\AccountingOnYou.runtimeconfig.json
+C:\Users\ehcottle\Desktop\AccountingOnYou\bin\Debug\netcoreapp2.1\AccountingOnYou.runtimeconfig.dev.json
+C:\Users\ehcottle\Desktop\AccountingOnYou\bin\Debug\netcoreapp2.1\AccountingOnYou.dll
+C:\Users\ehcottle\Desktop\AccountingOnYou\bin\Debug\netcoreapp2.1\AccountingOnYou.pdb
+C:\Users\ehcottle\Desktop\AccountingOnYou\obj\Debug\netcoreapp2.1\AccountingOnYou.csprojAssemblyReference.cache
+C:\Users\ehcottle\Desktop\AccountingOnYou\obj\Debug\netcoreapp2.1\AccountingOnYou.csproj.CoreCompileInputs.cache
+C:\Users\ehcottle\Desktop\AccountingOnYou\obj\Debug\netcoreapp2.1\AccountingOnYou.AssemblyInfoInputs.cache
+C:\Users\ehcottle\Desktop\AccountingOnYou\obj\Debug\netcoreapp2.1\AccountingOnYou.AssemblyInfo.cs
+C:\Users\ehcottle\Desktop\AccountingOnYou\obj\Debug\netcoreapp2.1\AccountingOnYou.dll
+C:\Users\ehcottle\Desktop\AccountingOnYou\obj\Debug\netcoreapp2.1\AccountingOnYou.pdb

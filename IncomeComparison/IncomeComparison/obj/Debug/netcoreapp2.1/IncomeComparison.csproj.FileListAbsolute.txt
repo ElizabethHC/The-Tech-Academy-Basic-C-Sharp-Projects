@@ -1,0 +1,11 @@
+C:\Users\ehcottle\Desktop\IncomeComparison\IncomeComparison\obj\Debug\netcoreapp2.1\IncomeComparison.csprojAssemblyReference.cache
+C:\Users\ehcottle\Desktop\IncomeComparison\IncomeComparison\obj\Debug\netcoreapp2.1\IncomeComparison.csproj.CoreCompileInputs.cache
+C:\Users\ehcottle\Desktop\IncomeComparison\IncomeComparison\obj\Debug\netcoreapp2.1\IncomeComparison.AssemblyInfoInputs.cache
+C:\Users\ehcottle\Desktop\IncomeComparison\IncomeComparison\obj\Debug\netcoreapp2.1\IncomeComparison.AssemblyInfo.cs
+C:\Users\ehcottle\Desktop\IncomeComparison\IncomeComparison\bin\Debug\netcoreapp2.1\IncomeComparison.deps.json
+C:\Users\ehcottle\Desktop\IncomeComparison\IncomeComparison\bin\Debug\netcoreapp2.1\IncomeComparison.runtimeconfig.json
+C:\Users\ehcottle\Desktop\IncomeComparison\IncomeComparison\bin\Debug\netcoreapp2.1\IncomeComparison.runtimeconfig.dev.json
+C:\Users\ehcottle\Desktop\IncomeComparison\IncomeComparison\bin\Debug\netcoreapp2.1\IncomeComparison.dll
+C:\Users\ehcottle\Desktop\IncomeComparison\IncomeComparison\bin\Debug\netcoreapp2.1\IncomeComparison.pdb
+C:\Users\ehcottle\Desktop\IncomeComparison\IncomeComparison\obj\Debug\netcoreapp2.1\IncomeComparison.dll
+C:\Users\ehcottle\Desktop\IncomeComparison\IncomeComparison\obj\Debug\netcoreapp2.1\IncomeComparison.pdb

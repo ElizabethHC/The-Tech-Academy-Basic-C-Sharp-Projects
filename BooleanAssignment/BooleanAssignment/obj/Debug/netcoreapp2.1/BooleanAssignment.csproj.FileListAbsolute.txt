@@ -1,0 +1,11 @@
+C:\Users\ehcottle\Desktop\BooleanAssignment\BooleanAssignment\bin\Debug\netcoreapp2.1\BooleanAssignment.deps.json
+C:\Users\ehcottle\Desktop\BooleanAssignment\BooleanAssignment\bin\Debug\netcoreapp2.1\BooleanAssignment.runtimeconfig.json
+C:\Users\ehcottle\Desktop\BooleanAssignment\BooleanAssignment\bin\Debug\netcoreapp2.1\BooleanAssignment.runtimeconfig.dev.json
+C:\Users\ehcottle\Desktop\BooleanAssignment\BooleanAssignment\bin\Debug\netcoreapp2.1\BooleanAssignment.dll
+C:\Users\ehcottle\Desktop\BooleanAssignment\BooleanAssignment\bin\Debug\netcoreapp2.1\BooleanAssignment.pdb
+C:\Users\ehcottle\Desktop\BooleanAssignment\BooleanAssignment\obj\Debug\netcoreapp2.1\BooleanAssignment.csprojAssemblyReference.cache
+C:\Users\ehcottle\Desktop\BooleanAssignment\BooleanAssignment\obj\Debug\netcoreapp2.1\BooleanAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ehcottle\Desktop\BooleanAssignment\BooleanAssignment\obj\Debug\netcoreapp2.1\BooleanAssignment.AssemblyInfoInputs.cache
+C:\Users\ehcottle\Desktop\BooleanAssignment\BooleanAssignment\obj\Debug\netcoreapp2.1\BooleanAssignment.AssemblyInfo.cs
+C:\Users\ehcottle\Desktop\BooleanAssignment\BooleanAssignment\obj\Debug\netcoreapp2.1\BooleanAssignment.dll
+C:\Users\ehcottle\Desktop\BooleanAssignment\BooleanAssignment\obj\Debug\netcoreapp2.1\BooleanAssignment.pdb
