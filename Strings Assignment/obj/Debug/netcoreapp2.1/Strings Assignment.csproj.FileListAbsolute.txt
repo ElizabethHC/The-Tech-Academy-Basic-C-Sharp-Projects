@@ -1,0 +1,11 @@
+C:\Users\ehcottle\Desktop\Strings Assignment\obj\Debug\netcoreapp2.1\Strings Assignment.csprojAssemblyReference.cache
+C:\Users\ehcottle\Desktop\Strings Assignment\obj\Debug\netcoreapp2.1\Strings Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ehcottle\Desktop\Strings Assignment\obj\Debug\netcoreapp2.1\Strings Assignment.AssemblyInfoInputs.cache
+C:\Users\ehcottle\Desktop\Strings Assignment\obj\Debug\netcoreapp2.1\Strings Assignment.AssemblyInfo.cs
+C:\Users\ehcottle\Desktop\Strings Assignment\bin\Debug\netcoreapp2.1\Strings Assignment.deps.json
+C:\Users\ehcottle\Desktop\Strings Assignment\bin\Debug\netcoreapp2.1\Strings Assignment.runtimeconfig.json
+C:\Users\ehcottle\Desktop\Strings Assignment\bin\Debug\netcoreapp2.1\Strings Assignment.runtimeconfig.dev.json
+C:\Users\ehcottle\Desktop\Strings Assignment\bin\Debug\netcoreapp2.1\Strings Assignment.dll
+C:\Users\ehcottle\Desktop\Strings Assignment\bin\Debug\netcoreapp2.1\Strings Assignment.pdb
+C:\Users\ehcottle\Desktop\Strings Assignment\obj\Debug\netcoreapp2.1\Strings Assignment.dll
+C:\Users\ehcottle\Desktop\Strings Assignment\obj\Debug\netcoreapp2.1\Strings Assignment.pdb
