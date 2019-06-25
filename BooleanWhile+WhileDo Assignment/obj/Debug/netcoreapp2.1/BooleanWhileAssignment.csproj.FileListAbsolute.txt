@@ -1,0 +1,22 @@
+C:\Users\ehcottle\Desktop\BooleanWhileAssignment\obj\Debug\netcoreapp2.1\BooleanWhileAssignment.csprojAssemblyReference.cache
+C:\Users\ehcottle\Desktop\BooleanWhileAssignment\obj\Debug\netcoreapp2.1\BooleanWhileAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ehcottle\Desktop\BooleanWhileAssignment\obj\Debug\netcoreapp2.1\BooleanWhileAssignment.AssemblyInfoInputs.cache
+C:\Users\ehcottle\Desktop\BooleanWhileAssignment\obj\Debug\netcoreapp2.1\BooleanWhileAssignment.AssemblyInfo.cs
+C:\Users\ehcottle\Desktop\BooleanWhileAssignment\bin\Debug\netcoreapp2.1\BooleanWhileAssignment.deps.json
+C:\Users\ehcottle\Desktop\BooleanWhileAssignment\bin\Debug\netcoreapp2.1\BooleanWhileAssignment.runtimeconfig.json
+C:\Users\ehcottle\Desktop\BooleanWhileAssignment\bin\Debug\netcoreapp2.1\BooleanWhileAssignment.runtimeconfig.dev.json
+C:\Users\ehcottle\Desktop\BooleanWhileAssignment\bin\Debug\netcoreapp2.1\BooleanWhileAssignment.dll
+C:\Users\ehcottle\Desktop\BooleanWhileAssignment\bin\Debug\netcoreapp2.1\BooleanWhileAssignment.pdb
+C:\Users\ehcottle\Desktop\BooleanWhileAssignment\obj\Debug\netcoreapp2.1\BooleanWhileAssignment.dll
+C:\Users\ehcottle\Desktop\BooleanWhileAssignment\obj\Debug\netcoreapp2.1\BooleanWhileAssignment.pdb
+C:\Users\ehcottle\Desktop\BooleanWhile+WhileDo Assignment\bin\Debug\netcoreapp2.1\BooleanWhileAssignment.deps.json
+C:\Users\ehcottle\Desktop\BooleanWhile+WhileDo Assignment\bin\Debug\netcoreapp2.1\BooleanWhileAssignment.runtimeconfig.json
+C:\Users\ehcottle\Desktop\BooleanWhile+WhileDo Assignment\bin\Debug\netcoreapp2.1\BooleanWhileAssignment.runtimeconfig.dev.json
+C:\Users\ehcottle\Desktop\BooleanWhile+WhileDo Assignment\bin\Debug\netcoreapp2.1\BooleanWhileAssignment.dll
+C:\Users\ehcottle\Desktop\BooleanWhile+WhileDo Assignment\bin\Debug\netcoreapp2.1\BooleanWhileAssignment.pdb
+C:\Users\ehcottle\Desktop\BooleanWhile+WhileDo Assignment\obj\Debug\netcoreapp2.1\BooleanWhileAssignment.csprojAssemblyReference.cache
+C:\Users\ehcottle\Desktop\BooleanWhile+WhileDo Assignment\obj\Debug\netcoreapp2.1\BooleanWhileAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ehcottle\Desktop\BooleanWhile+WhileDo Assignment\obj\Debug\netcoreapp2.1\BooleanWhileAssignment.AssemblyInfoInputs.cache
+C:\Users\ehcottle\Desktop\BooleanWhile+WhileDo Assignment\obj\Debug\netcoreapp2.1\BooleanWhileAssignment.AssemblyInfo.cs
+C:\Users\ehcottle\Desktop\BooleanWhile+WhileDo Assignment\obj\Debug\netcoreapp2.1\BooleanWhileAssignment.dll
+C:\Users\ehcottle\Desktop\BooleanWhile+WhileDo Assignment\obj\Debug\netcoreapp2.1\BooleanWhileAssignment.pdb
