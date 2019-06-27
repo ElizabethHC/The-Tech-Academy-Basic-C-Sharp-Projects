@@ -1,0 +1,11 @@
+C:\Users\ehcottle\Desktop\Arrays+Strings Assignment\obj\Debug\netcoreapp2.1\Arrays+Strings Assignment.csprojAssemblyReference.cache
+C:\Users\ehcottle\Desktop\Arrays+Strings Assignment\obj\Debug\netcoreapp2.1\Arrays+Strings Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ehcottle\Desktop\Arrays+Strings Assignment\obj\Debug\netcoreapp2.1\Arrays+Strings Assignment.AssemblyInfoInputs.cache
+C:\Users\ehcottle\Desktop\Arrays+Strings Assignment\obj\Debug\netcoreapp2.1\Arrays+Strings Assignment.AssemblyInfo.cs
+C:\Users\ehcottle\Desktop\Arrays+Strings Assignment\bin\Debug\netcoreapp2.1\Arrays+Strings Assignment.deps.json
+C:\Users\ehcottle\Desktop\Arrays+Strings Assignment\bin\Debug\netcoreapp2.1\Arrays+Strings Assignment.runtimeconfig.json
+C:\Users\ehcottle\Desktop\Arrays+Strings Assignment\bin\Debug\netcoreapp2.1\Arrays+Strings Assignment.runtimeconfig.dev.json
+C:\Users\ehcottle\Desktop\Arrays+Strings Assignment\bin\Debug\netcoreapp2.1\Arrays+Strings Assignment.dll
+C:\Users\ehcottle\Desktop\Arrays+Strings Assignment\bin\Debug\netcoreapp2.1\Arrays+Strings Assignment.pdb
+C:\Users\ehcottle\Desktop\Arrays+Strings Assignment\obj\Debug\netcoreapp2.1\Arrays+Strings Assignment.dll
+C:\Users\ehcottle\Desktop\Arrays+Strings Assignment\obj\Debug\netcoreapp2.1\Arrays+Strings Assignment.pdb
