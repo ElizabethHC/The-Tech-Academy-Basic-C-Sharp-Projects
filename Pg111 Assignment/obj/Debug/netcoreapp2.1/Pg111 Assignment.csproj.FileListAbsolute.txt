@@ -1,0 +1,11 @@
+C:\Users\ehcottle\Desktop\Pg111 Assignment\obj\Debug\netcoreapp2.1\Pg111 Assignment.csprojAssemblyReference.cache
+C:\Users\ehcottle\Desktop\Pg111 Assignment\obj\Debug\netcoreapp2.1\Pg111 Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ehcottle\Desktop\Pg111 Assignment\obj\Debug\netcoreapp2.1\Pg111 Assignment.AssemblyInfoInputs.cache
+C:\Users\ehcottle\Desktop\Pg111 Assignment\obj\Debug\netcoreapp2.1\Pg111 Assignment.AssemblyInfo.cs
+C:\Users\ehcottle\Desktop\Pg111 Assignment\bin\Debug\netcoreapp2.1\Pg111 Assignment.deps.json
+C:\Users\ehcottle\Desktop\Pg111 Assignment\bin\Debug\netcoreapp2.1\Pg111 Assignment.runtimeconfig.json
+C:\Users\ehcottle\Desktop\Pg111 Assignment\bin\Debug\netcoreapp2.1\Pg111 Assignment.runtimeconfig.dev.json
+C:\Users\ehcottle\Desktop\Pg111 Assignment\bin\Debug\netcoreapp2.1\Pg111 Assignment.dll
+C:\Users\ehcottle\Desktop\Pg111 Assignment\bin\Debug\netcoreapp2.1\Pg111 Assignment.pdb
+C:\Users\ehcottle\Desktop\Pg111 Assignment\obj\Debug\netcoreapp2.1\Pg111 Assignment.dll
+C:\Users\ehcottle\Desktop\Pg111 Assignment\obj\Debug\netcoreapp2.1\Pg111 Assignment.pdb
