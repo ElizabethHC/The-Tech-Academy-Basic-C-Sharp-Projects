@@ -1,0 +1,11 @@
+C:\Users\ehcottle\Desktop\Pg106 Assignment\bin\Debug\netcoreapp2.1\Pg106 Assignment.deps.json
+C:\Users\ehcottle\Desktop\Pg106 Assignment\bin\Debug\netcoreapp2.1\Pg106 Assignment.runtimeconfig.json
+C:\Users\ehcottle\Desktop\Pg106 Assignment\bin\Debug\netcoreapp2.1\Pg106 Assignment.runtimeconfig.dev.json
+C:\Users\ehcottle\Desktop\Pg106 Assignment\bin\Debug\netcoreapp2.1\Pg106 Assignment.dll
+C:\Users\ehcottle\Desktop\Pg106 Assignment\bin\Debug\netcoreapp2.1\Pg106 Assignment.pdb
+C:\Users\ehcottle\Desktop\Pg106 Assignment\obj\Debug\netcoreapp2.1\Pg106 Assignment.csprojAssemblyReference.cache
+C:\Users\ehcottle\Desktop\Pg106 Assignment\obj\Debug\netcoreapp2.1\Pg106 Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ehcottle\Desktop\Pg106 Assignment\obj\Debug\netcoreapp2.1\Pg106 Assignment.AssemblyInfoInputs.cache
+C:\Users\ehcottle\Desktop\Pg106 Assignment\obj\Debug\netcoreapp2.1\Pg106 Assignment.AssemblyInfo.cs
+C:\Users\ehcottle\Desktop\Pg106 Assignment\obj\Debug\netcoreapp2.1\Pg106 Assignment.dll
+C:\Users\ehcottle\Desktop\Pg106 Assignment\obj\Debug\netcoreapp2.1\Pg106 Assignment.pdb
