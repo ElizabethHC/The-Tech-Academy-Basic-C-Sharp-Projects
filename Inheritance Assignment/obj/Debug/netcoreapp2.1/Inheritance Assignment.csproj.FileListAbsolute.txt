@@ -1,0 +1,11 @@
+C:\Users\ehcottle\Desktop\Inheritance Assignment\obj\Debug\netcoreapp2.1\Inheritance Assignment.csprojAssemblyReference.cache
+C:\Users\ehcottle\Desktop\Inheritance Assignment\obj\Debug\netcoreapp2.1\Inheritance Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ehcottle\Desktop\Inheritance Assignment\obj\Debug\netcoreapp2.1\Inheritance Assignment.AssemblyInfoInputs.cache
+C:\Users\ehcottle\Desktop\Inheritance Assignment\obj\Debug\netcoreapp2.1\Inheritance Assignment.AssemblyInfo.cs
+C:\Users\ehcottle\Desktop\Inheritance Assignment\bin\Debug\netcoreapp2.1\Inheritance Assignment.deps.json
+C:\Users\ehcottle\Desktop\Inheritance Assignment\bin\Debug\netcoreapp2.1\Inheritance Assignment.runtimeconfig.json
+C:\Users\ehcottle\Desktop\Inheritance Assignment\bin\Debug\netcoreapp2.1\Inheritance Assignment.runtimeconfig.dev.json
+C:\Users\ehcottle\Desktop\Inheritance Assignment\bin\Debug\netcoreapp2.1\Inheritance Assignment.dll
+C:\Users\ehcottle\Desktop\Inheritance Assignment\bin\Debug\netcoreapp2.1\Inheritance Assignment.pdb
+C:\Users\ehcottle\Desktop\Inheritance Assignment\obj\Debug\netcoreapp2.1\Inheritance Assignment.dll
+C:\Users\ehcottle\Desktop\Inheritance Assignment\obj\Debug\netcoreapp2.1\Inheritance Assignment.pdb
