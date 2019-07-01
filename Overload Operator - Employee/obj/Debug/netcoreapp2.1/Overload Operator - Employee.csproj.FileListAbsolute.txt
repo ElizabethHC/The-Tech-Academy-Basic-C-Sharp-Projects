@@ -1,0 +1,11 @@
+C:\Users\ehcottle\Desktop\Overload Operator - Employee\bin\Debug\netcoreapp2.1\Overload Operator - Employee.deps.json
+C:\Users\ehcottle\Desktop\Overload Operator - Employee\bin\Debug\netcoreapp2.1\Overload Operator - Employee.runtimeconfig.json
+C:\Users\ehcottle\Desktop\Overload Operator - Employee\bin\Debug\netcoreapp2.1\Overload Operator - Employee.runtimeconfig.dev.json
+C:\Users\ehcottle\Desktop\Overload Operator - Employee\bin\Debug\netcoreapp2.1\Overload Operator - Employee.dll
+C:\Users\ehcottle\Desktop\Overload Operator - Employee\bin\Debug\netcoreapp2.1\Overload Operator - Employee.pdb
+C:\Users\ehcottle\Desktop\Overload Operator - Employee\obj\Debug\netcoreapp2.1\Overload Operator - Employee.csprojAssemblyReference.cache
+C:\Users\ehcottle\Desktop\Overload Operator - Employee\obj\Debug\netcoreapp2.1\Overload Operator - Employee.csproj.CoreCompileInputs.cache
+C:\Users\ehcottle\Desktop\Overload Operator - Employee\obj\Debug\netcoreapp2.1\Overload Operator - Employee.AssemblyInfoInputs.cache
+C:\Users\ehcottle\Desktop\Overload Operator - Employee\obj\Debug\netcoreapp2.1\Overload Operator - Employee.AssemblyInfo.cs
+C:\Users\ehcottle\Desktop\Overload Operator - Employee\obj\Debug\netcoreapp2.1\Overload Operator - Employee.dll
+C:\Users\ehcottle\Desktop\Overload Operator - Employee\obj\Debug\netcoreapp2.1\Overload Operator - Employee.pdb
