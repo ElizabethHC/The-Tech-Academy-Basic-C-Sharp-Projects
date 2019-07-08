@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ehcottle\\Desktop\\BooleanAssignment\\BooleanAssignment\\BooleanAssignment.csproj",
+      "projectUniqueName": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\BooleanAssignment\\BooleanAssignment\\BooleanAssignment.csproj",
       "projectName": "BooleanAssignment",
-      "projectPath": "C:\\Users\\ehcottle\\Desktop\\BooleanAssignment\\BooleanAssignment\\BooleanAssignment.csproj",
+      "projectPath": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\BooleanAssignment\\BooleanAssignment\\BooleanAssignment.csproj",
       "packagesPath": "C:\\Users\\ehcottle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ehcottle\\Desktop\\BooleanAssignment\\BooleanAssignment\\obj\\",
+      "outputPath": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\BooleanAssignment\\BooleanAssignment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

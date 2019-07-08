@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ehcottle\\Desktop\\IncomeComparison\\IncomeComparison\\IncomeComparison.csproj": {}
+    "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\IncomeComparison\\IncomeComparison\\IncomeComparison.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ehcottle\\Desktop\\IncomeComparison\\IncomeComparison\\IncomeComparison.csproj": {
+    "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\IncomeComparison\\IncomeComparison\\IncomeComparison.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ehcottle\\Desktop\\IncomeComparison\\IncomeComparison\\IncomeComparison.csproj",
+        "projectUniqueName": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\IncomeComparison\\IncomeComparison\\IncomeComparison.csproj",
         "projectName": "IncomeComparison",
-        "projectPath": "C:\\Users\\ehcottle\\Desktop\\IncomeComparison\\IncomeComparison\\IncomeComparison.csproj",
+        "projectPath": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\IncomeComparison\\IncomeComparison\\IncomeComparison.csproj",
         "packagesPath": "C:\\Users\\ehcottle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ehcottle\\Desktop\\IncomeComparison\\IncomeComparison\\obj\\",
+        "outputPath": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\IncomeComparison\\IncomeComparison\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
