@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ehcottle\\Desktop\\Projects to redo\\OptionalParameter\\OptionalParameter.csproj": {}
+    "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\OptionalParameter\\OptionalParameter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ehcottle\\Desktop\\Projects to redo\\OptionalParameter\\OptionalParameter.csproj": {
+    "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\OptionalParameter\\OptionalParameter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ehcottle\\Desktop\\Projects to redo\\OptionalParameter\\OptionalParameter.csproj",
+        "projectUniqueName": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\OptionalParameter\\OptionalParameter.csproj",
         "projectName": "OptionalParameter",
-        "projectPath": "C:\\Users\\ehcottle\\Desktop\\Projects to redo\\OptionalParameter\\OptionalParameter.csproj",
+        "projectPath": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\OptionalParameter\\OptionalParameter.csproj",
         "packagesPath": "C:\\Users\\ehcottle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ehcottle\\Desktop\\Projects to redo\\OptionalParameter\\obj\\",
+        "outputPath": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\OptionalParameter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
