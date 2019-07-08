@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ehcottle\\Desktop\\DailyReportAssignment\\DailyReportAssignment\\DailyReportAssignment.csproj": {}
+    "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\DailyReportAssignment\\DailyReportAssignment\\DailyReportAssignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ehcottle\\Desktop\\DailyReportAssignment\\DailyReportAssignment\\DailyReportAssignment.csproj": {
+    "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\DailyReportAssignment\\DailyReportAssignment\\DailyReportAssignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ehcottle\\Desktop\\DailyReportAssignment\\DailyReportAssignment\\DailyReportAssignment.csproj",
+        "projectUniqueName": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\DailyReportAssignment\\DailyReportAssignment\\DailyReportAssignment.csproj",
         "projectName": "DailyReportAssignment",
-        "projectPath": "C:\\Users\\ehcottle\\Desktop\\DailyReportAssignment\\DailyReportAssignment\\DailyReportAssignment.csproj",
+        "projectPath": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\DailyReportAssignment\\DailyReportAssignment\\DailyReportAssignment.csproj",
         "packagesPath": "C:\\Users\\ehcottle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ehcottle\\Desktop\\DailyReportAssignment\\DailyReportAssignment\\obj\\",
+        "outputPath": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\DailyReportAssignment\\DailyReportAssignment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

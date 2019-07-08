@@ -8,7 +8,6 @@ namespace DailyReportAssignment
         {
             Console.WriteLine("The Tech Academy" );
             Console.WriteLine("Student Daily Report");
-            Console.ReadLine();
 
             Console.WriteLine("What course are you on?");
             string currentCourse = Console.ReadLine();
@@ -16,8 +15,22 @@ namespace DailyReportAssignment
             Console.WriteLine("What page number?");
             string pageNumber = Console.ReadLine();
 
-            Console.WriteLine("Do you need help with anything? Please answer “true” or “false”.");
-            string studyHelp = Console.ReadLine();
+            Console.WriteLine("Do you need help with anything? Please answer “yes” or “no”.");
+            var studyHelp = Console.ReadLine();
+            bool needHelp = studyHelp == "yes";
+            bool noHelp = studyHelp == "no";
+            if (noHelp)
+            {
+                Console.WriteLine("I'm glad you're doing well!");
+            }
+            else if (needHelp)
+            {
+                Console.WriteLine("Please reach out for the assistance you need!");
+            }
+            else if (!noHelp && !needHelp)
+            {
+                Console.WriteLine("I'm sorry, 'yes' or 'no' answers only.");
+            }
 
             Console.WriteLine("Were there any positive experiences you’d like to share? Please give specifics.");
             string posExperience = Console.ReadLine();
