@@ -9,12 +9,13 @@ namespace Pg113_Assignment
         {
             try
             {
-                var methodMath = new Math();
-                Console.WriteLine("Pick a whole number for multiplication: ");
+                Console.WriteLine("Pick a whole number: ");
                 int y = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Pick another whole number for multiplication: ");
+                Console.WriteLine("Pick another whole number: ");
                 int z = Convert.ToInt32(Console.ReadLine());
-                methodMath.Mult(y, z, 4);
+
+                Math methodMath = new Math();
+                methodMath.Mult(y, z);
                 Console.ReadLine();
             }
 

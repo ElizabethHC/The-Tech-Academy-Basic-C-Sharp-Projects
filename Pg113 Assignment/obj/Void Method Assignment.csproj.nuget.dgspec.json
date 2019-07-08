@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ehcottle\\Desktop\\Pg113 Assignment\\Void Method Assignment.csproj": {}
+    "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Pg113 Assignment\\Void Method Assignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ehcottle\\Desktop\\Pg113 Assignment\\Void Method Assignment.csproj": {
+    "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Pg113 Assignment\\Void Method Assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ehcottle\\Desktop\\Pg113 Assignment\\Void Method Assignment.csproj",
+        "projectUniqueName": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Pg113 Assignment\\Void Method Assignment.csproj",
         "projectName": "Void Method Assignment",
-        "projectPath": "C:\\Users\\ehcottle\\Desktop\\Pg113 Assignment\\Void Method Assignment.csproj",
+        "projectPath": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Pg113 Assignment\\Void Method Assignment.csproj",
         "packagesPath": "C:\\Users\\ehcottle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ehcottle\\Desktop\\Pg113 Assignment\\obj\\",
+        "outputPath": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Pg113 Assignment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

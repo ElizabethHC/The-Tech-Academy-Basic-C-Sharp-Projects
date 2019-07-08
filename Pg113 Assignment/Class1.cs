@@ -8,9 +8,13 @@ namespace Pg113_Assignment
 {
     public class Math
     {
-        public void Mult(int y, int z, int multi)
+        public void Mult(int y, int z)
         {
-            Console.WriteLine($"The equation will be you numbers ( {y} and {z} ) multiplied by ( {multi} ).");
+            int value1 = y * 2;
+            Console.WriteLine("Your first input, " + y + ", multiplied by 2 is " + value1 + ".");
+
+            int value2 = value1 * z;
+            Console.WriteLine("The first answer, " + value1 + ", multiplied by " + z + " is " + value2 + ".");
         }
     }
 }
