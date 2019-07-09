@@ -20,17 +20,18 @@ namespace More_Methods
 
     class methodEquations
     {
-        public int Divide(int a, int div)
+        public static void Divide(int a, out int div, out int firstTotal)
         {
-            int total = a / div;
-            Console.WriteLine("Your number, " + a + ", divided by 2 is " + total + ".");
-            return total;
+            div = 2;
+            firstTotal = a / div;
+            Console.WriteLine("Your number, " + a + ", divided by 2 is " + firstTotal + ".");
         }
 
-        public void middleDiv(int a, int b)
+        public int middleDiv(int a, int b)
         {
             int userTotal = a + b;
             Console.WriteLine($"The two numbers you chose ( {a} and {b} ) added together will be: {userTotal}.");
+            return userTotal;
         }
 
         public int Divide(int firstTotal, int b, int div)

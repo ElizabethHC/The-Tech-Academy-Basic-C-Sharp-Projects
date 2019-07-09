@@ -14,8 +14,9 @@ namespace More_Methods
 
             Console.WriteLine(questions.qOne);
             int a = Convert.ToInt32(Console.ReadLine());
-
-            int firstTotal = userMath.Divide(a, 2);
+            int div;
+            int firstTotal;
+            methodEquations.Divide(a, out div, out firstTotal);
 
             Console.WriteLine(questions.qTwo);
             int b = Convert.ToInt32(Console.ReadLine());

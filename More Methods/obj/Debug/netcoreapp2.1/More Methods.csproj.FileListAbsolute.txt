@@ -20,3 +20,14 @@ C:\Users\ehcottle\Desktop\Projects to redo\More Methods\obj\Debug\netcoreapp2.1\
 C:\Users\ehcottle\Desktop\Projects to redo\More Methods\obj\Debug\netcoreapp2.1\More Methods.AssemblyInfo.cs
 C:\Users\ehcottle\Desktop\Projects to redo\More Methods\obj\Debug\netcoreapp2.1\More Methods.dll
 C:\Users\ehcottle\Desktop\Projects to redo\More Methods\obj\Debug\netcoreapp2.1\More Methods.pdb
+C:\Users\ehcottle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\More Methods\obj\Debug\netcoreapp2.1\More Methods.csprojAssemblyReference.cache
+C:\Users\ehcottle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\More Methods\obj\Debug\netcoreapp2.1\More Methods.csproj.CoreCompileInputs.cache
+C:\Users\ehcottle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\More Methods\obj\Debug\netcoreapp2.1\More Methods.AssemblyInfoInputs.cache
+C:\Users\ehcottle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\More Methods\obj\Debug\netcoreapp2.1\More Methods.AssemblyInfo.cs
+C:\Users\ehcottle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\More Methods\obj\Debug\netcoreapp2.1\More Methods.dll
+C:\Users\ehcottle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\More Methods\obj\Debug\netcoreapp2.1\More Methods.pdb
+C:\Users\ehcottle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\More Methods\bin\Debug\netcoreapp2.1\More Methods.deps.json
+C:\Users\ehcottle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\More Methods\bin\Debug\netcoreapp2.1\More Methods.runtimeconfig.json
+C:\Users\ehcottle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\More Methods\bin\Debug\netcoreapp2.1\More Methods.runtimeconfig.dev.json
+C:\Users\ehcottle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\More Methods\bin\Debug\netcoreapp2.1\More Methods.dll
+C:\Users\ehcottle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\More Methods\bin\Debug\netcoreapp2.1\More Methods.pdb
