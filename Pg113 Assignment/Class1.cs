@@ -10,6 +10,8 @@ namespace Pg113_Assignment
     {
         public void Mult(int y, int z)
         {
+            int firstNum = y;
+            int secondNum = z;
             int value1 = y * 2;
             Console.WriteLine("Your first input, " + y + ", multiplied by 2 is " + value1 + ".");
 

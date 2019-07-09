@@ -1,0 +1,22 @@
+C:\Users\ehcottle\Desktop\MathClasses\bin\Debug\netcoreapp2.1\MathClasses.deps.json
+C:\Users\ehcottle\Desktop\MathClasses\bin\Debug\netcoreapp2.1\MathClasses.runtimeconfig.json
+C:\Users\ehcottle\Desktop\MathClasses\bin\Debug\netcoreapp2.1\MathClasses.runtimeconfig.dev.json
+C:\Users\ehcottle\Desktop\MathClasses\bin\Debug\netcoreapp2.1\MathClasses.dll
+C:\Users\ehcottle\Desktop\MathClasses\bin\Debug\netcoreapp2.1\MathClasses.pdb
+C:\Users\ehcottle\Desktop\MathClasses\obj\Debug\netcoreapp2.1\MathClasses.csprojAssemblyReference.cache
+C:\Users\ehcottle\Desktop\MathClasses\obj\Debug\netcoreapp2.1\MathClasses.csproj.CoreCompileInputs.cache
+C:\Users\ehcottle\Desktop\MathClasses\obj\Debug\netcoreapp2.1\MathClasses.AssemblyInfoInputs.cache
+C:\Users\ehcottle\Desktop\MathClasses\obj\Debug\netcoreapp2.1\MathClasses.AssemblyInfo.cs
+C:\Users\ehcottle\Desktop\MathClasses\obj\Debug\netcoreapp2.1\MathClasses.dll
+C:\Users\ehcottle\Desktop\MathClasses\obj\Debug\netcoreapp2.1\MathClasses.pdb
+C:\Users\ehcottle\Desktop\Projects to redo\MathClasses\bin\Debug\netcoreapp2.1\MathClasses.deps.json
+C:\Users\ehcottle\Desktop\Projects to redo\MathClasses\bin\Debug\netcoreapp2.1\MathClasses.runtimeconfig.json
+C:\Users\ehcottle\Desktop\Projects to redo\MathClasses\bin\Debug\netcoreapp2.1\MathClasses.runtimeconfig.dev.json
+C:\Users\ehcottle\Desktop\Projects to redo\MathClasses\bin\Debug\netcoreapp2.1\MathClasses.dll
+C:\Users\ehcottle\Desktop\Projects to redo\MathClasses\bin\Debug\netcoreapp2.1\MathClasses.pdb
+C:\Users\ehcottle\Desktop\Projects to redo\MathClasses\obj\Debug\netcoreapp2.1\MathClasses.csprojAssemblyReference.cache
+C:\Users\ehcottle\Desktop\Projects to redo\MathClasses\obj\Debug\netcoreapp2.1\MathClasses.csproj.CoreCompileInputs.cache
+C:\Users\ehcottle\Desktop\Projects to redo\MathClasses\obj\Debug\netcoreapp2.1\MathClasses.AssemblyInfoInputs.cache
+C:\Users\ehcottle\Desktop\Projects to redo\MathClasses\obj\Debug\netcoreapp2.1\MathClasses.AssemblyInfo.cs
+C:\Users\ehcottle\Desktop\Projects to redo\MathClasses\obj\Debug\netcoreapp2.1\MathClasses.dll
+C:\Users\ehcottle\Desktop\Projects to redo\MathClasses\obj\Debug\netcoreapp2.1\MathClasses.pdb
