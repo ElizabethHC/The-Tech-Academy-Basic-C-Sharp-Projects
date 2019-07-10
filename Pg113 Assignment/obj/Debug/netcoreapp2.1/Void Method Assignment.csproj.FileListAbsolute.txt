@@ -20,3 +20,14 @@ C:\Users\ehcottle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Pg113
 C:\Users\ehcottle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Pg113 Assignment\obj\Debug\netcoreapp2.1\Void Method Assignment.AssemblyInfo.cs
 C:\Users\ehcottle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Pg113 Assignment\obj\Debug\netcoreapp2.1\Void Method Assignment.dll
 C:\Users\ehcottle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Pg113 Assignment\obj\Debug\netcoreapp2.1\Void Method Assignment.pdb
+C:\Users\ehcottle\Desktop\Projects to redo\Pg113 Assignment\bin\Debug\netcoreapp2.1\Void Method Assignment.deps.json
+C:\Users\ehcottle\Desktop\Projects to redo\Pg113 Assignment\bin\Debug\netcoreapp2.1\Void Method Assignment.runtimeconfig.json
+C:\Users\ehcottle\Desktop\Projects to redo\Pg113 Assignment\bin\Debug\netcoreapp2.1\Void Method Assignment.runtimeconfig.dev.json
+C:\Users\ehcottle\Desktop\Projects to redo\Pg113 Assignment\bin\Debug\netcoreapp2.1\Void Method Assignment.dll
+C:\Users\ehcottle\Desktop\Projects to redo\Pg113 Assignment\bin\Debug\netcoreapp2.1\Void Method Assignment.pdb
+C:\Users\ehcottle\Desktop\Projects to redo\Pg113 Assignment\obj\Debug\netcoreapp2.1\Void Method Assignment.csprojAssemblyReference.cache
+C:\Users\ehcottle\Desktop\Projects to redo\Pg113 Assignment\obj\Debug\netcoreapp2.1\Void Method Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ehcottle\Desktop\Projects to redo\Pg113 Assignment\obj\Debug\netcoreapp2.1\Void Method Assignment.AssemblyInfoInputs.cache
+C:\Users\ehcottle\Desktop\Projects to redo\Pg113 Assignment\obj\Debug\netcoreapp2.1\Void Method Assignment.AssemblyInfo.cs
+C:\Users\ehcottle\Desktop\Projects to redo\Pg113 Assignment\obj\Debug\netcoreapp2.1\Void Method Assignment.dll
+C:\Users\ehcottle\Desktop\Projects to redo\Pg113 Assignment\obj\Debug\netcoreapp2.1\Void Method Assignment.pdb

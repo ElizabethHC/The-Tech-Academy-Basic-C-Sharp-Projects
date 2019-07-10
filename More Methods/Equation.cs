@@ -14,7 +14,7 @@ namespace More_Methods
         static questions()
         {
             qOne = "Pick a whole number:";
-            qTwo = "Pick a whole number:";
+            qTwo = "Pick another whole number:";
         }
     }
 

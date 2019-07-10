@@ -10,12 +10,13 @@ namespace Pg113_Assignment
             try
             {
                 Console.WriteLine("Pick a whole number: ");
-                int y = Convert.ToInt32(Console.ReadLine());
+                int first = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("Pick another whole number: ");
-                int z = Convert.ToInt32(Console.ReadLine());
+                int second = Convert.ToInt32(Console.ReadLine());
 
                 Math methodMath = new Math();
-                methodMath.Mult(y, z);
+                methodMath.Mult(first, second);
+                methodMath.Mult(y: first, z: second);
                 Console.ReadLine();
             }
 

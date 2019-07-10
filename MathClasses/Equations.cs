@@ -8,24 +8,27 @@ namespace MathClasses
 {
     public class Equation
     {
-        public int equations(int a, int plus)
+        public int equations(int a)
         {
-            int value = a + plus;
+            int value = a + 777;
             Console.WriteLine("\tYour number added to 777 is: " + value);
             return value;
         }
 
-        public int equations(decimal b, int mult)
+        public int equations(decimal b)
         {
-            decimal num = b;
-            num = Decimal.ToInt32(b);
-            Console.WriteLine("\tYour number multiplied by 17 is: " + num * mult);
+            //decimal num = b;
+            //num = Decimal.ToInt32(b);
+            decimal value = b * 17;
+            int mult = Decimal.ToInt32(value);
+            Console.WriteLine("\tYour number multiplied by 17 is: " + mult);
             return mult;
         }
 
-        public int equations(int num1, int num2, int number)
+        public int equations(string number)
         {
-            int value = num1 / num2 + number;
+            int z = Convert.ToInt32(number);
+            int value = 300 / 2 + z;
             Console.WriteLine("\t300 divided by 2 with " + number + " added is " + value + ".");
             return value;
         }
