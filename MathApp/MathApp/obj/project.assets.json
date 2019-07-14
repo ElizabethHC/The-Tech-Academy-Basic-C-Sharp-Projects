@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ehcottle\\Desktop\\MathApp\\MathApp\\MathApp.csproj",
+      "projectUniqueName": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MathApp\\MathApp\\MathApp.csproj",
       "projectName": "MathApp",
-      "projectPath": "C:\\Users\\ehcottle\\Desktop\\MathApp\\MathApp\\MathApp.csproj",
+      "projectPath": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MathApp\\MathApp\\MathApp.csproj",
       "packagesPath": "C:\\Users\\ehcottle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ehcottle\\Desktop\\MathApp\\MathApp\\obj\\",
+      "outputPath": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MathApp\\MathApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

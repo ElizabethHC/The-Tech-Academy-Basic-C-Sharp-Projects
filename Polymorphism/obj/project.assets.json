@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ehcottle\\Desktop\\Projects to redo\\Polymorphism\\Polymorphism.csproj",
+      "projectUniqueName": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Polymorphism\\Polymorphism.csproj",
       "projectName": "Polymorphism",
-      "projectPath": "C:\\Users\\ehcottle\\Desktop\\Projects to redo\\Polymorphism\\Polymorphism.csproj",
+      "projectPath": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Polymorphism\\Polymorphism.csproj",
       "packagesPath": "C:\\Users\\ehcottle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ehcottle\\Desktop\\Projects to redo\\Polymorphism\\obj\\",
+      "outputPath": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Polymorphism\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

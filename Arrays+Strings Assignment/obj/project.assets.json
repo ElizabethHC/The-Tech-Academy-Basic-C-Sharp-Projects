@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ehcottle\\Desktop\\Arrays+Strings Assignment\\Arrays+Strings Assignment.csproj",
+      "projectUniqueName": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Arrays+Strings Assignment\\Arrays+Strings Assignment.csproj",
       "projectName": "Arrays+Strings Assignment",
-      "projectPath": "C:\\Users\\ehcottle\\Desktop\\Arrays+Strings Assignment\\Arrays+Strings Assignment.csproj",
+      "projectPath": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Arrays+Strings Assignment\\Arrays+Strings Assignment.csproj",
       "packagesPath": "C:\\Users\\ehcottle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ehcottle\\Desktop\\Arrays+Strings Assignment\\obj\\",
+      "outputPath": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Arrays+Strings Assignment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
