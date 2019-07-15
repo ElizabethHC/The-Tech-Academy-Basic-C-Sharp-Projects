@@ -1,0 +1,11 @@
+C:\Users\ehcottle\Desktop\Enums - Pg.134\bin\Debug\netcoreapp2.1\Enums - Pg.134.deps.json
+C:\Users\ehcottle\Desktop\Enums - Pg.134\bin\Debug\netcoreapp2.1\Enums - Pg.134.runtimeconfig.json
+C:\Users\ehcottle\Desktop\Enums - Pg.134\bin\Debug\netcoreapp2.1\Enums - Pg.134.runtimeconfig.dev.json
+C:\Users\ehcottle\Desktop\Enums - Pg.134\bin\Debug\netcoreapp2.1\Enums - Pg.134.dll
+C:\Users\ehcottle\Desktop\Enums - Pg.134\bin\Debug\netcoreapp2.1\Enums - Pg.134.pdb
+C:\Users\ehcottle\Desktop\Enums - Pg.134\obj\Debug\netcoreapp2.1\Enums - Pg.134.csprojAssemblyReference.cache
+C:\Users\ehcottle\Desktop\Enums - Pg.134\obj\Debug\netcoreapp2.1\Enums - Pg.134.csproj.CoreCompileInputs.cache
+C:\Users\ehcottle\Desktop\Enums - Pg.134\obj\Debug\netcoreapp2.1\Enums - Pg.134.AssemblyInfoInputs.cache
+C:\Users\ehcottle\Desktop\Enums - Pg.134\obj\Debug\netcoreapp2.1\Enums - Pg.134.AssemblyInfo.cs
+C:\Users\ehcottle\Desktop\Enums - Pg.134\obj\Debug\netcoreapp2.1\Enums - Pg.134.dll
+C:\Users\ehcottle\Desktop\Enums - Pg.134\obj\Debug\netcoreapp2.1\Enums - Pg.134.pdb
