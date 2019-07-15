@@ -1,0 +1,11 @@
+C:\Users\ehcottle\Desktop\Structs - Pg.137\bin\Debug\netcoreapp2.1\Structs - Pg.137.deps.json
+C:\Users\ehcottle\Desktop\Structs - Pg.137\bin\Debug\netcoreapp2.1\Structs - Pg.137.runtimeconfig.json
+C:\Users\ehcottle\Desktop\Structs - Pg.137\bin\Debug\netcoreapp2.1\Structs - Pg.137.runtimeconfig.dev.json
+C:\Users\ehcottle\Desktop\Structs - Pg.137\bin\Debug\netcoreapp2.1\Structs - Pg.137.dll
+C:\Users\ehcottle\Desktop\Structs - Pg.137\bin\Debug\netcoreapp2.1\Structs - Pg.137.pdb
+C:\Users\ehcottle\Desktop\Structs - Pg.137\obj\Debug\netcoreapp2.1\Structs - Pg.137.csprojAssemblyReference.cache
+C:\Users\ehcottle\Desktop\Structs - Pg.137\obj\Debug\netcoreapp2.1\Structs - Pg.137.csproj.CoreCompileInputs.cache
+C:\Users\ehcottle\Desktop\Structs - Pg.137\obj\Debug\netcoreapp2.1\Structs - Pg.137.AssemblyInfoInputs.cache
+C:\Users\ehcottle\Desktop\Structs - Pg.137\obj\Debug\netcoreapp2.1\Structs - Pg.137.AssemblyInfo.cs
+C:\Users\ehcottle\Desktop\Structs - Pg.137\obj\Debug\netcoreapp2.1\Structs - Pg.137.dll
+C:\Users\ehcottle\Desktop\Structs - Pg.137\obj\Debug\netcoreapp2.1\Structs - Pg.137.pdb
