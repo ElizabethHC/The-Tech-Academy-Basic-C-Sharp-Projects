@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Generic Type\\Generic Type.csproj",
-      "projectName": "Generic Type",
-      "projectPath": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Generic Type\\Generic Type.csproj",
+      "projectUniqueName": "C:\\Users\\ehcottle\\Desktop\\Structs - Pg.136\\Structs - Pg.136.csproj",
+      "projectName": "Structs - Pg.136",
+      "projectPath": "C:\\Users\\ehcottle\\Desktop\\Structs - Pg.136\\Structs - Pg.136.csproj",
       "packagesPath": "C:\\Users\\ehcottle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Generic Type\\obj\\",
+      "outputPath": "C:\\Users\\ehcottle\\Desktop\\Structs - Pg.136\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
