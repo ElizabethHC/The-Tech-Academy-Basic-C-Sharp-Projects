@@ -1,0 +1,11 @@
+C:\Users\ehcottle\Desktop\FileIO pg 154\bin\Debug\netcoreapp2.1\FileIO pg 154.deps.json
+C:\Users\ehcottle\Desktop\FileIO pg 154\bin\Debug\netcoreapp2.1\FileIO pg 154.runtimeconfig.json
+C:\Users\ehcottle\Desktop\FileIO pg 154\bin\Debug\netcoreapp2.1\FileIO pg 154.runtimeconfig.dev.json
+C:\Users\ehcottle\Desktop\FileIO pg 154\bin\Debug\netcoreapp2.1\FileIO pg 154.dll
+C:\Users\ehcottle\Desktop\FileIO pg 154\bin\Debug\netcoreapp2.1\FileIO pg 154.pdb
+C:\Users\ehcottle\Desktop\FileIO pg 154\obj\Debug\netcoreapp2.1\FileIO pg 154.csproj.CoreCompileInputs.cache
+C:\Users\ehcottle\Desktop\FileIO pg 154\obj\Debug\netcoreapp2.1\FileIO pg 154.AssemblyInfoInputs.cache
+C:\Users\ehcottle\Desktop\FileIO pg 154\obj\Debug\netcoreapp2.1\FileIO pg 154.AssemblyInfo.cs
+C:\Users\ehcottle\Desktop\FileIO pg 154\obj\Debug\netcoreapp2.1\FileIO pg 154.dll
+C:\Users\ehcottle\Desktop\FileIO pg 154\obj\Debug\netcoreapp2.1\FileIO pg 154.pdb
+C:\Users\ehcottle\Desktop\FileIO pg 154\obj\Debug\netcoreapp2.1\FileIO pg 154.csprojAssemblyReference.cache

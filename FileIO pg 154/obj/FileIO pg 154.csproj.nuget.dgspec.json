@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Enums - Pg.134\\Enums - Pg.134.csproj": {}
+    "C:\\Users\\ehcottle\\Desktop\\FileIO pg 154\\FileIO pg 154.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Enums - Pg.134\\Enums - Pg.134.csproj": {
+    "C:\\Users\\ehcottle\\Desktop\\FileIO pg 154\\FileIO pg 154.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Enums - Pg.134\\Enums - Pg.134.csproj",
-        "projectName": "Enums - Pg.134",
-        "projectPath": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Enums - Pg.134\\Enums - Pg.134.csproj",
+        "projectUniqueName": "C:\\Users\\ehcottle\\Desktop\\FileIO pg 154\\FileIO pg 154.csproj",
+        "projectName": "FileIO pg 154",
+        "projectPath": "C:\\Users\\ehcottle\\Desktop\\FileIO pg 154\\FileIO pg 154.csproj",
         "packagesPath": "C:\\Users\\ehcottle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Enums - Pg.134\\obj\\",
+        "outputPath": "C:\\Users\\ehcottle\\Desktop\\FileIO pg 154\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
