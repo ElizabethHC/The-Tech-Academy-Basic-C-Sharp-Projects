@@ -1,0 +1,11 @@
+C:\Users\ehcottle\Desktop\DateTime Pg156\bin\Debug\netcoreapp2.1\DateTime Pg156.deps.json
+C:\Users\ehcottle\Desktop\DateTime Pg156\bin\Debug\netcoreapp2.1\DateTime Pg156.runtimeconfig.json
+C:\Users\ehcottle\Desktop\DateTime Pg156\bin\Debug\netcoreapp2.1\DateTime Pg156.runtimeconfig.dev.json
+C:\Users\ehcottle\Desktop\DateTime Pg156\bin\Debug\netcoreapp2.1\DateTime Pg156.dll
+C:\Users\ehcottle\Desktop\DateTime Pg156\bin\Debug\netcoreapp2.1\DateTime Pg156.pdb
+C:\Users\ehcottle\Desktop\DateTime Pg156\obj\Debug\netcoreapp2.1\DateTime Pg156.csprojAssemblyReference.cache
+C:\Users\ehcottle\Desktop\DateTime Pg156\obj\Debug\netcoreapp2.1\DateTime Pg156.csproj.CoreCompileInputs.cache
+C:\Users\ehcottle\Desktop\DateTime Pg156\obj\Debug\netcoreapp2.1\DateTime Pg156.AssemblyInfoInputs.cache
+C:\Users\ehcottle\Desktop\DateTime Pg156\obj\Debug\netcoreapp2.1\DateTime Pg156.AssemblyInfo.cs
+C:\Users\ehcottle\Desktop\DateTime Pg156\obj\Debug\netcoreapp2.1\DateTime Pg156.dll
+C:\Users\ehcottle\Desktop\DateTime Pg156\obj\Debug\netcoreapp2.1\DateTime Pg156.pdb
