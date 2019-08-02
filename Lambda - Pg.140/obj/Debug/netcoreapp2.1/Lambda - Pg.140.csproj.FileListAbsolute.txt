@@ -1,0 +1,11 @@
+C:\Users\ehcottle\Desktop\Lambda - Pg.140\obj\Debug\netcoreapp2.1\Lambda - Pg.140.csprojAssemblyReference.cache
+C:\Users\ehcottle\Desktop\Lambda - Pg.140\obj\Debug\netcoreapp2.1\Lambda - Pg.140.csproj.CoreCompileInputs.cache
+C:\Users\ehcottle\Desktop\Lambda - Pg.140\obj\Debug\netcoreapp2.1\Lambda - Pg.140.AssemblyInfoInputs.cache
+C:\Users\ehcottle\Desktop\Lambda - Pg.140\obj\Debug\netcoreapp2.1\Lambda - Pg.140.AssemblyInfo.cs
+C:\Users\ehcottle\Desktop\Lambda - Pg.140\bin\Debug\netcoreapp2.1\Lambda - Pg.140.deps.json
+C:\Users\ehcottle\Desktop\Lambda - Pg.140\bin\Debug\netcoreapp2.1\Lambda - Pg.140.runtimeconfig.json
+C:\Users\ehcottle\Desktop\Lambda - Pg.140\bin\Debug\netcoreapp2.1\Lambda - Pg.140.runtimeconfig.dev.json
+C:\Users\ehcottle\Desktop\Lambda - Pg.140\bin\Debug\netcoreapp2.1\Lambda - Pg.140.dll
+C:\Users\ehcottle\Desktop\Lambda - Pg.140\bin\Debug\netcoreapp2.1\Lambda - Pg.140.pdb
+C:\Users\ehcottle\Desktop\Lambda - Pg.140\obj\Debug\netcoreapp2.1\Lambda - Pg.140.dll
+C:\Users\ehcottle\Desktop\Lambda - Pg.140\obj\Debug\netcoreapp2.1\Lambda - Pg.140.pdb
