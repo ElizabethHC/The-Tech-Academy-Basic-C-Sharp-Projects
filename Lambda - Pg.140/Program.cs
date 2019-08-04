@@ -10,37 +10,6 @@ namespace Lambda___Pg._140
     {
         static void Main(string[] args)
         {
-            //Employee employee1 = new Employee();
-            //employee1.fullName = "Joe Jones";
-            //employee1.Id = 55;
-            //Employee employee2 = new Employee();
-            //employee2.fullName = "Ellen Ripley";
-            //employee2.Id = 3;
-            //Employee employee3 = new Employee();
-            //employee3.fullName = "Joe Joestar";
-            //employee3.Id = 29;
-            //Employee employee4 = new Employee();
-            //employee4.fullName = "Darwin Santos";
-            //employee4.Id = 16;
-            //Employee employee5 = new Employee();
-            //employee5.fullName = "Eliora Vanna";
-            //employee5.Id = 13;
-            //Employee employee6 = new Employee();
-            //employee6.fullName = "Bob Vance";
-            //employee6.Id = 199;
-            //Employee employee7 = new Employee();
-            //employee7.fullName = "Dia Blut";
-            //employee7.Id = 1;
-            //Employee employee8 = new Employee();
-            //employee8.fullName = "Jhin Virtuoso";
-            //employee8.Id = 4;
-            //Employee employee9 = new Employee();
-            //employee9.fullName = "Aurinia Ripsa";
-            //employee9.Id = 31;
-            //Employee employee10 = new Employee();
-            //employee10.fullName = "Shiloh Moore";
-            //employee10.Id = 147;
-
             var employees = new List<Employee>
             {
                 new Employee { fullName = "Joe Jones", Id = 55 },
@@ -57,61 +26,17 @@ namespace Lambda___Pg._140
 
             foreach (var Joe in employees)
             {
-                if (Joe.Contains("Joe"))
-                    Console.WriteLine("-" + Joe);
+                if (Joe.fullName.Contains("Joe"))
+                    Console.WriteLine(Joe.fullName);
             }
 
-            var newListJoes = employees.Where(x => x.Contains("Joe")).ToList();
-            newListJoes.ForEach(i => Console.Write("{0}\n", i));
+            var newListJoes = employees.Where(x => x.fullName.Contains("Joe")).ToList();
+            newListJoes.ForEach(i => Console.Write("-{0}\n", i.fullName));
 
             var id = employees.Where(x => x.Id > 5).ToList();
-            id.ForEach(i => Console.Write("{0}\n", i));
+            id.ForEach(i => Console.Write("+{0}, Id: {1}\n", i.fullName, i.Id));
 
             Console.ReadLine();
-
-            //Employee employee1 = new Employee();
-            //employee1.fullName = "Joe Jones";
-            //employee1.Id = 55;
-            //Employee employee2 = new Employee();
-            //employee2.fullName = "Ellen Ripley";
-            //employee2.Id = 3;
-            //Employee employee3 = new Employee();
-            //employee3.fullName = "Joe Joestar";
-            //employee3.Id = 29;
-            //Employee employee4 = new Employee();
-            //employee4.fullName = "Darwin Santos";
-            //employee4.Id = 16;
-            //Employee employee5 = new Employee();
-            //employee5.fullName = "Eliora Vanna";
-            //employee5.Id = 13;
-            //Employee employee6 = new Employee();
-            //employee6.fullName = "Bob Vance";
-            //employee6.Id = 199;
-            //Employee employee7 = new Employee();
-            //employee7.fullName = "Dia Blut";
-            //employee7.Id = 1;
-            //Employee employee8 = new Employee();
-            //employee8.fullName = "Jhin Virtuoso";
-            //employee8.Id = 4;
-            //Employee employee9 = new Employee();
-            //employee9.fullName = "Aurinia Ripsa";
-            //employee9.Id = 31;
-            //Employee employee10 = new Employee();
-            //employee10.fullName = "Shiloh Moore";
-            //employee10.Id = 147;
-
-            //List<Employee> employees = new List<Employee>();
-            //employees.Add(employee1);
-            //employees.Add(employee2);
-            //employees.Add(employee3);
-            //employees.Add(employee4);
-            //employees.Add(employee5);
-            //employees.Add(employee6);
-            //employees.Add(employee7);
-            //employees.Add(employee8);
-            //employees.Add(employee9);
-            //employees.Add(employee10);
-
         }
     }
 }
