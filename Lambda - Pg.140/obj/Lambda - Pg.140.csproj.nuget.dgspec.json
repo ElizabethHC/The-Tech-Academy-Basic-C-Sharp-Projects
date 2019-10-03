@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ehcottle\\Desktop\\Lambda - Pg.140\\Lambda - Pg.140.csproj": {}
+    "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Lambda - Pg.140\\Lambda - Pg.140.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ehcottle\\Desktop\\Lambda - Pg.140\\Lambda - Pg.140.csproj": {
+    "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Lambda - Pg.140\\Lambda - Pg.140.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ehcottle\\Desktop\\Lambda - Pg.140\\Lambda - Pg.140.csproj",
+        "projectUniqueName": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Lambda - Pg.140\\Lambda - Pg.140.csproj",
         "projectName": "Lambda - Pg.140",
-        "projectPath": "C:\\Users\\ehcottle\\Desktop\\Lambda - Pg.140\\Lambda - Pg.140.csproj",
+        "projectPath": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Lambda - Pg.140\\Lambda - Pg.140.csproj",
         "packagesPath": "C:\\Users\\ehcottle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ehcottle\\Desktop\\Lambda - Pg.140\\obj\\",
+        "outputPath": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Lambda - Pg.140\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,40 @@
+﻿body {
+    background-color: #2F292D;
+    font-family: Source Sans Pro, Arial,sans-serif;
+    color: #E7E5CF;
+    text-align: center;
+}
+
+.name {
+    background-color: #E7E5CF;
+    color: #2F292D;
+    margin: 15px auto;
+    border-radius:10px;
+}
+
+button {
+    border-radius: 25px;
+    background-color: #2F292D;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    max-width: 300px;
+    margin: 20px auto;
+}
+
+li {
+    min-height: 20px;
+    text-align: left;
+    background-color: white;
+    color: black;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+    li button {
+        float: right;
+        margin: 0px 3px;
+    }
+

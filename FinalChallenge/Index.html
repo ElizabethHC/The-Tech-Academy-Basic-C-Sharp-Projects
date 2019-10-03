@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link href="Styling.css" rel="stylesheet" />
+    <script src="Scripts/jquery-3.4.1.js"></script>
+    <script src="Scripts/JS.js"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/knockout/knockout-3.3.0.js"
+            type="text/javascript"></script>
+    <title></title>
+</head>
+<body>
+
+    <div class='name'>
+        <p>First Name: <span data-bind='text: firstName' /></p>
+        <p>Last Name: <span data-bind=' text: lastName' /></p>
+    </div>
+
+    <div id='first'>
+        <input id="first" placeholder='First name' data-bind='value: firstName' /><br />
+        <input id="last" placeholder='Last name' data-bind='value: lastName' />
+        <h2 id="greet">Thank you for participating, <span data-bind='text: playerName'> </span>!</h2>
+        <button onclick="continueOn()">Continue</button>
+    </div>
+
+    <div id="secondPage" style="display:none;">
+        <h3 id="teamTitle">Meet our guests,  <span data-bind='text: firstName'> .</h3>
+        <ul id="characterFriends">
+            <li><img src="images/sonora.png" height="70" width="68"><button data-bind="click: sonoraBtn">View</button><br /></li>
+            <!--<li><img src="images/imposter.png" height="70" width="68"><button data-bind="click: imposterBtn">View</button></li>
+            <li><img src="images/bumi.png" height="70" width="68"><button data-bind="click: bumiBtn">View</button></li>
+            <li><img src="images/tessette.png" height="70" width="68"><button data-bind="click: tessetteBtn">View</button></li>
+            <li><img src="images/marisol.png" height="70" width="68"><button data-bind="click: marisolBtn">View</button></li>
+            <li><img src="images/petelle.png" height="70" width="68"><button data-bind="click: petelleBtn">View</button></li>-->
+        </ul>
+        <button onclick="end">Finish</button>
+    </div>
+
+    <script type="text/javascript">
+        //name
+        var player = function (fName, lName) {
+            this.firstName = ko.observable(fName);
+            this.lastName = ko.observable(lName);
+
+            this.playerName = ko.computed(function () {
+                return this.firstName() + " " + this.lastName();
+            }, this);
+        };
+        ko.applyBindings(new player("", ""));
+
+
+        //function CharacterBtns() {
+        //    this.sonoraBtn = function (data, event) {
+        //        alert("Name: Sonora");
+        //        }
+        //    }
+        //};
+
+        //var vm = new CharacterBtn();
+        //ko.applyBindings(vm);
+    </script>
+
+
+
+</body>
+</html>

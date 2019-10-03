@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ehcottle\\Desktop\\DateTime Pg156\\DateTime Pg156.csproj": {}
+    "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\DateTime Pg156\\DateTime Pg156.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ehcottle\\Desktop\\DateTime Pg156\\DateTime Pg156.csproj": {
+    "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\DateTime Pg156\\DateTime Pg156.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ehcottle\\Desktop\\DateTime Pg156\\DateTime Pg156.csproj",
+        "projectUniqueName": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\DateTime Pg156\\DateTime Pg156.csproj",
         "projectName": "DateTime Pg156",
-        "projectPath": "C:\\Users\\ehcottle\\Desktop\\DateTime Pg156\\DateTime Pg156.csproj",
+        "projectPath": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\DateTime Pg156\\DateTime Pg156.csproj",
         "packagesPath": "C:\\Users\\ehcottle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ehcottle\\Desktop\\DateTime Pg156\\obj\\",
+        "outputPath": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\DateTime Pg156\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

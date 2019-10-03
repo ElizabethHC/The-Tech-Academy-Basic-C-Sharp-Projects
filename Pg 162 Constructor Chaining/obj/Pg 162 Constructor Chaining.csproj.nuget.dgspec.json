@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ehcottle\\Desktop\\Pg 162 Constructor Chaining\\Pg 162 Constructor Chaining.csproj": {}
+    "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Pg 162 Constructor Chaining\\Pg 162 Constructor Chaining.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ehcottle\\Desktop\\Pg 162 Constructor Chaining\\Pg 162 Constructor Chaining.csproj": {
+    "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Pg 162 Constructor Chaining\\Pg 162 Constructor Chaining.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ehcottle\\Desktop\\Pg 162 Constructor Chaining\\Pg 162 Constructor Chaining.csproj",
+        "projectUniqueName": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Pg 162 Constructor Chaining\\Pg 162 Constructor Chaining.csproj",
         "projectName": "Pg 162 Constructor Chaining",
-        "projectPath": "C:\\Users\\ehcottle\\Desktop\\Pg 162 Constructor Chaining\\Pg 162 Constructor Chaining.csproj",
+        "projectPath": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Pg 162 Constructor Chaining\\Pg 162 Constructor Chaining.csproj",
         "packagesPath": "C:\\Users\\ehcottle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ehcottle\\Desktop\\Pg 162 Constructor Chaining\\obj\\",
+        "outputPath": "C:\\Users\\ehcottle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Pg 162 Constructor Chaining\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
