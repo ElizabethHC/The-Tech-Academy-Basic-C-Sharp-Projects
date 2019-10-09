@@ -27,37 +27,39 @@
         <h3 id="teamTitle">Meet our guests,  <span data-bind='text: firstName'> .</h3>
         <ul id="characterFriends">
             <li><img src="images/sonora.png" height="70" width="68"><button data-bind="click: sonoraBtn">View</button><br /></li>
-            <!--<li><img src="images/imposter.png" height="70" width="68"><button data-bind="click: imposterBtn">View</button></li>
+            <li><img src="images/imposter.png" height="70" width="68"><button data-bind="click: imposterBtn">View</button></li>
             <li><img src="images/bumi.png" height="70" width="68"><button data-bind="click: bumiBtn">View</button></li>
             <li><img src="images/tessette.png" height="70" width="68"><button data-bind="click: tessetteBtn">View</button></li>
             <li><img src="images/marisol.png" height="70" width="68"><button data-bind="click: marisolBtn">View</button></li>
-            <li><img src="images/petelle.png" height="70" width="68"><button data-bind="click: petelleBtn">View</button></li>-->
+            <li><img src="images/petelle.png" height="70" width="68"><button data-bind="click: petelleBtn">View</button></li>
         </ul>
-        <button onclick="end">Finish</button>
     </div>
 
     <script type="text/javascript">
-        //name
-        var player = function (fName, lName) {
-            this.firstName = ko.observable(fName);
-            this.lastName = ko.observable(lName);
 
+        function player() {
+            this.firstName = ko.observable("");
+            this.lastName = ko.observable("");
             this.playerName = ko.computed(function () {
                 return this.firstName() + " " + this.lastName();
             }, this);
-        };
-        ko.applyBindings(new player("", ""));
-
-
-        //function CharacterBtns() {
-        //    this.sonoraBtn = function (data, event) {
-        //        alert("Name: Sonora");
-        //        }
-        //    }
-        //};
-
-        //var vm = new CharacterBtn();
-        //ko.applyBindings(vm);
+            this.sonoraBtn = function (data, event) {
+                alert("Name: Sonora");
+            }
+                        this.imposterBtn = function (data, event) {
+                alert("Name: Unknown");
+            }
+                        this.tessetteBtn = function (data, event) {
+                alert("Name: Bumi");
+            }
+                        this.marisolBtn = function (data, event) {
+                alert("Name: Marisol");
+            }
+                        this.petelleBtn = function (data, event) {
+                alert("Name: Petelle");
+            }
+        }
+        ko.applyBindings(new player());
     </script>
 
 
